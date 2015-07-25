@@ -1,0 +1,15 @@
+* {
+  font-family: Arial;
+}
+
+.left {
+  font-family: Tahoma;
+  width: 65%;
+  float: left;
+}
+
+.right {
+  font-family: Tahoma;
+  width: 30%;
+  float: left;
+}
